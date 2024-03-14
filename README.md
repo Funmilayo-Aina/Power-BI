@@ -5,7 +5,7 @@ Data Analytics using Power BI Projects Series:
 *About
 * Prerequisites
 * Goals
-*The Project
+* The Project
 
   * Data Used In This Project
   * The Code
