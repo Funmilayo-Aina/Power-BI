@@ -4,6 +4,10 @@ Data Analytics using Power BI Projects Series:
 -*Introduction
 *About
 * Prerequisites
+   * ChatGPT
+   * Advance PowerBI
+   * Data Visualization Skill
+   * DAX
 * Goals
 * The Project
 
