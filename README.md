@@ -4,7 +4,7 @@ Data Analytics using Power BI Projects Series:
 -*Introduction
 *About
 * Prerequisites
-   * ChatGPT (Used to create a column for the image url of the album cover)
+   * Python Programming
    * Advance PowerBI
    * Data Visualization Skill
    * DAX
