@@ -9,6 +9,7 @@ Data Analytics using Power BI Projects Series:
    * Data Visualization Skill
    * DAX
 * Goals
+  
      Building Spotify Performance Report DashBoard
 * The Project
 
